@@ -1,0 +1,12 @@
+{
+  "name": "stop",
+  "permissions": "NONE",
+  "restriction": "1",
+  "_id": "lnLYx",
+  "actions": [
+    {
+      "action": "0",
+      "name": "Control Audio"
+    }
+  ]
+}

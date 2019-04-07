@@ -1,0 +1,12 @@
+{
+  "name": "skip",
+  "permissions": "NONE",
+  "restriction": "1",
+  "_id": "eqoDk",
+  "actions": [
+    {
+      "amount": "1",
+      "name": "Skip Queue"
+    }
+  ]
+}

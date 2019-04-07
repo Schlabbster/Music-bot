@@ -1,0 +1,12 @@
+{
+  "name": "resume",
+  "permissions": "NONE",
+  "restriction": "1",
+  "_id": "LLmFC",
+  "actions": [
+    {
+      "action": "2",
+      "name": "Control Audio"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Clearqueue",
+  "permissions": "NONE",
+  "restriction": "1",
+  "_id": "hiQwg",
+  "actions": [
+    {
+      "name": "Clear Queue"
+    }
+  ]
+}
